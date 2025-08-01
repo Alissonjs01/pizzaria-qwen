@@ -1,0 +1,30 @@
+{
+  "name": "pizzaria-qwen",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alissonjs01/pizzaria-qwen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alissonjs01/pizzaria-qwen/issues"
+  },
+  "homepage": "https://github.com/Alissonjs01/pizzaria-qwen#readme",
+  "description": "",
+  "dependencies": {
+    "lucide-react": "^0.535.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.0.6"
+  }
+}
