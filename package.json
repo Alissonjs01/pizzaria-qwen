@@ -1,8 +1,6 @@
 {
   "name": "pizzaria-don-giovanni",
   "version": "1.0.0",
-  "description": "Dashboard moderno para gestão de pizzaria",
-  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -22,8 +20,5 @@
     "tailwindcss": "^3.4.1",
     "postcss": "^8.4.21",
     "autoprefixer": "^10.4.14"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  }
 }
